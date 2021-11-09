@@ -1,2 +1,2 @@
 # ML_Projects
-loan-prediciton-uisng-decision-tree
+loan-prediciton-using-decision-tree
