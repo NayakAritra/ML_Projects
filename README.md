@@ -1,5 +1,4 @@
 # ML_Projects
-loan-prediciton-using-decision-tree
 Objective was to build a Machine Learning model to classify loan eligibility.
 Machine Learning, Student at Praxis Business School Tools Used:
 Machine Learning, Student at Praxis Business School Tools Used:
